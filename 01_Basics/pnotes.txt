@@ -23,3 +23,13 @@ for c in "chai":
 print(c)
 
 =>error because indentation -> spacing mistake learning coding blocks
+--------------
+import sys
+sys.flatform
+--------------
+import hello_chai
+hello_chai.chai(""hrlllo")
+----------------
+hello_chai("wwe)
+hello_chai.chai_one
+from importlib import reload
