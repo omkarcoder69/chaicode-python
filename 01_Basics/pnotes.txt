@@ -1,0 +1,25 @@
+lecture 2: installation of python 
+ python installer
+https://www.python.org/
+
+ online python compiler
+https://onecompiler.com/python
+
+3 googlecolab for advance data science
+https://colab.research.google.com/
+
+ more: anaconda,etc...
+
+lecture 3: python in shell
+
+cmd prompts
+
+#read all the files
+import os
+os.cwd()
+
+#basic loops
+for c in "chai":
+print(c)
+
+=>error because indentation -> spacing mistake learning coding blocks
