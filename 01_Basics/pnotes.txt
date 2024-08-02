@@ -33,3 +33,9 @@ hello_chai.chai(""hrlllo")
 hello_chai("wwe)
 hello_chai.chai_one
 from importlib import reload
+
+lecture 4: inmutable and mutable
+https://excalidraw.com/#json=6s-5n7ftz7ADOYcHIhFQ4,eJQPg4yr_Ku__nHgL_RvnA
+username="omkar"
+x=5
+y=x
