@@ -11,6 +11,9 @@ https://colab.research.google.com/
  more: anaconda,etc...
 
 lecture 3: python in shell
+ctrl+z=outofpython sheell
+ctrl+c
+intendetation
 
 cmd prompts
 
@@ -25,7 +28,7 @@ print(c)
 =>error because indentation -> spacing mistake learning coding blocks
 --------------
 import sys
-sys.flatform
+sys.platform
 --------------
 import hello_chai
 hello_chai.chai(""hrlllo")
@@ -35,7 +38,42 @@ hello_chai.chai_one
 from importlib import reload
 
 lecture 4: inmutable and mutable
-https://excalidraw.com/#json=6s-5n7ftz7ADOYcHIhFQ4,eJQPg4yr_Ku__nHgL_RvnA
 username="omkar"
 x=5
 y=x
+
+Data types in python:
+
+Object Types / Data Types
+Number : 1234, 3.1415, 3+4j, 0b111, Decimal(), Fraction()
+
+String : 'spam', "Bob's", b'a\x01c', u'sp\xc4m'
+
+List : [1, [2, 'three'], 4.5], list(range(10))
+
+Tuple : (1, 'spam', 4, 'U'), tuple('spam'), namedtuple
+
+Dictionary : {'food': 'spam', 'taste': 'yum'}, dict(hours=10)
+
+Set : set('abc'), {'a', 'b', 'c'}
+
+File : open('eggs.txt'), open(r'C:\ham.bin', 'wb')
+
+Boolean : True, False
+
+None : None
+
+Funtions, modules, classes
+
+Advance: Decorators, Generators, Iterators, MetaProgramming
+
+#disc
+import math
+math.pi
+
+username="chai aur code"
+len(chai aur code)
+username[0] 
+username[0] = 'a'
+username[-1]
+username[1:3]
