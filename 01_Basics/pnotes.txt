@@ -71,9 +71,10 @@ Advance: Decorators, Generators, Iterators, MetaProgramming
 import math
 math.pi
 
-username="chai aur code"
-len(chai aur code)
-username[0] 
+username="chai aur code" #string
+len(chai aur code)   #length of string
+username[0]  #indexing
 username[0] = 'a'
-username[-1]
-username[1:3]
+username[-1] #inbuilt methods
+username[1:3] 
+mydc = {'pi':1, 'two':2 } #Dictionary
